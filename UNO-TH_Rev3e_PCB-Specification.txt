@@ -1,0 +1,10 @@
+Uno Rev3e PCB Specification
+
+Material: FR4
+Thickness: 1.55mm +/-10%
+Layers: 2
+Dimensions: 68.58mm x 53.34mm
+Final Copper Thickness: 35µm (1 OZ)
+Surface Finish: Ni/Au (immersion gold)
+Solder Mask: green (both sides)
+Silk Screen: white (both sides)
